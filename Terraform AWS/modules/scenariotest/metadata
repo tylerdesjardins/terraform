@@ -1,0 +1,6 @@
+SCENARIO_NAME="scenariotest"
+SCENARIO_HUMAN_NAME="kali playground"
+SCENARIO_DESCRIPTION="deploys kali linux into the 'red' network, and BLAH into the 'blue' network.  Allows experimenting"
+SCENARIO_URL="https://arcticwolf.atlassian.net/wiki/spaces/AWD/pages/1676050587/Scenario+-+Kali+playground"
+SCENARIO_OWNER="tyler.desjardins@arcticwolf.com"
+SCENARIO_STATE="development"
